@@ -44,5 +44,5 @@ Run before sending a functional specification to anyone. Each item names the fai
 
 ## Prose
 
-- [ ] Passed `writing-clearly-and-concisely` and `technical-writing-density`.
+- [ ] Read and applied `writing-copy` before drafting, then checked that revisions preserve meaning, scope, constraints, and uncertainty.
 - [ ] The opening explains the problem before the first requirement.

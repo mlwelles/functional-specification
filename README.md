@@ -56,7 +56,7 @@ This skill covers the functional-spec artifact only.
 | What is the end-to-end experience? | `customer-journey-map` |
 | In what order do we build it? | `superpowers:writing-plans` |
 
-It composes with [`writing-clearly-and-concisely`](https://github.com/softaworks/agent-toolkit/tree/main/skills/writing-clearly-and-concisely) and [`technical-writing-density`](https://github.com/mlwelles/technical-writing-density) for prose quality, and defers diagrams to a dedicated diagram skill.
+It uses `writing-copy` as a separately installed prose-quality dependency and defers diagrams to a dedicated diagram skill. This repository does not bundle `writing-copy`.
 
 One rule deliberately contradicts `software-design-docs`: that skill says define terms inline and skip the glossary, while this one requires a Vocabulary section. A functional spec is a contract several parties read independently, and a term meaning one thing in clause 4 and another in clause 40 is the most common way a spec fails acceptance.
 

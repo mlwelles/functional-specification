@@ -81,4 +81,4 @@ Per-section guidance → `references/section-guide.md`. Templates → `templates
 | What is the end-to-end experience? | `customer-journey-map` |
 | In what order do we build it? | `superpowers:writing-plans` |
 
-For prose quality, compose with `writing-clearly-and-concisely` and `technical-writing-density`.
+Read and apply `writing-copy` before drafting the specification. This skill owns content and format; prose edits must preserve requirements, scope, constraints, and uncertainty.
